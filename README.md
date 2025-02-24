@@ -1,4 +1,4 @@
-# Simulation des Câbles Souterrains
+# Simulation Performances d’une Ligne  a Vide
 
 ## Description
 Ce TP implémente une simulation des performances des câbles souterrains en modélisant les pertes et les variations de tension, de puissance active et réactive. Il permet d'évaluer le comportement des câbles en conditions réelles et de comparer les résultats expérimentaux et simulés.
